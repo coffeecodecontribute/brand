@@ -1,2 +1,2 @@
 # eluseum-brand
-The brand of eluseum (logos, fonts etc.)
+The brand of eluseum (logos, fonts etc.).
